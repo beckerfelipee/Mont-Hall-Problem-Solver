@@ -38,7 +38,10 @@ python main.py
 
 After running the simulation, the program will display the outcomes, showing how many times the **change** option resulted in success compared to the **keep** option.
 
-### Running the Program                                           Simulation Results
+### Running the Program
 
-<img alt="running" align="left" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039708672050/running.png?ex=65c7518c&is=65b4dc8c&hm=817c86761519461cf8f39f4bd472ee2c384bad7e5784731c9a7a34f8d0ec141f&">
-<img alt="results" align="right" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039364747264/result.png?ex=65c7518c&is=65b4dc8c&hm=55e7ef3cf16a1d7d017ef4a89ae116696d3ea3dcd37074d8cc1a0f04ca098cda&">
+<img alt="running" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039708672050/running.png?ex=65c7518c&is=65b4dc8c&hm=817c86761519461cf8f39f4bd472ee2c384bad7e5784731c9a7a34f8d0ec141f&">
+
+### Simulation Results
+
+<img alt="results" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039364747264/result.png?ex=65c7518c&is=65b4dc8c&hm=55e7ef3cf16a1d7d017ef4a89ae116696d3ea3dcd37074d8cc1a0f04ca098cda&">
