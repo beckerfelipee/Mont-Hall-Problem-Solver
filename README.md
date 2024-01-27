@@ -33,9 +33,7 @@ cd Mont-Hall-Problem-Solver
 ```bash
 python main.py
 ```
-
-## Results
-
+---
 After running the simulation, the program will display the outcomes, showing how many times the **change** option resulted in success compared to the **keep** option.
 
 ### Running the Program
