@@ -5,11 +5,11 @@ import os  # to create a skip(clear) function
 # Config
 
 inputs = True
-set_rounds = 1000  # if not inputs
+set_rounds = 1000  # influence only if inputs is False
 
 show_all_rounds = True
-show_prize = True  # influence only if show_all_rounds
-show_win_move = True  # influence only if show_all_rounds
+show_prize = True  # influence only if show_all_rounds is True
+show_win_move = True  # influence only if show_all_rounds is True
 
 # Some useful functions
 
