@@ -4,7 +4,7 @@
 
 The Monty Hall problem is a probability puzzle that revolves around a game show scenario with three doors, one of which hides a desirable prize.
 
-<img alt="Mont Hall" height="300" width="300" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200747268047912970/2.jpeg?ex=65c74e09&is=65b4d909&hm=fc4ff8406108e619275a724408e4313f9fbfad58ebdeb0fb5e42afe0ae40ce4c&">
+<img alt="Mont Hall" height="300" width="300" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/MontyHall/Logo.jpeg">
 
 In the Monty Hall problem:
 
@@ -38,8 +38,8 @@ After running the simulation, the program will display the outcomes, showing how
 
 ### Running the Program
 
-<img alt="running" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039708672050/running.png?ex=65c7518c&is=65b4dc8c&hm=817c86761519461cf8f39f4bd472ee2c384bad7e5784731c9a7a34f8d0ec141f&">
+<img alt="running" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/MontyHall/running.png">
 
 ### Simulation Results
 
-<img alt="results" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200751039364747264/result.png?ex=65c7518c&is=65b4dc8c&hm=55e7ef3cf16a1d7d017ef4a89ae116696d3ea3dcd37074d8cc1a0f04ca098cda&">
+<img alt="results" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/MontyHall/result.png">
